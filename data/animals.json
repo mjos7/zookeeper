@@ -181,6 +181,30 @@
         "hilarious"
       ],
       "id": "18"
+    },
+    {
+      "name": "Mark",
+      "species": "monkey",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "19"
+    },
+    {
+      "name": "Mark",
+      "species": "monkey",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving",
+        "goofy"
+      ],
+      "id": "20"
     }
   ]
 }
